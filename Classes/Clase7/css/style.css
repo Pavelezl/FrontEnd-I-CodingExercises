@@ -1,0 +1,24 @@
+.negrita{
+    font-weight: bold;
+    font-style: italic;
+}
+
+.fechas{
+    font-weight: bold;
+}
+
+h1{
+    background-color: #C4C4C4;
+    color: #005677;
+}
+
+.tituloArticulo{
+    color: #005677;
+    background-color: #C4C4C4;
+}
+
+header{
+    background-color: #E6E6E6;
+    align-items: center;
+}
+
